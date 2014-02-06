@@ -9,5 +9,4 @@ PullOver
 References
 ==========
 
-1. Single Handed View Map Sample: https://github.com/saxman/maps-android-walkway
-2. 
+1. Single Handed View Map Sample: https://github.com/saxman/maps-android-walkway 
