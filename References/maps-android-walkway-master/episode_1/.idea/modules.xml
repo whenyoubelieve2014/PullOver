@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/Support13Demos/Support13Demos.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/Support13Demos/Support13Demos.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/Support4Demos/Support4Demos.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/Support4Demos/Support4Demos.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/Support7Demos/Support7Demos.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/Support7Demos/Support7Demos.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/SupportAppNavigation/SupportAppNavigation.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/samples/SupportAppNavigation/SupportAppNavigation.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/admob/admob.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/admob/admob.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/v7/appcompat/appcompat.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/v7/appcompat/appcompat.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/auth/auth.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/auth/auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/episode_1.iml" filepath="$PROJECT_DIR$/episode_1.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/libproject/google-play-services_lib/google-play-services_lib.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/v7/gridlayout/gridlayout.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/v7/gridlayout/gridlayout.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/maps/maps.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/maps/maps.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/v7/mediarouter/mediarouter.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/v7/mediarouter/mediarouter.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/panorama/panorama.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/panorama/panorama.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/plus/plus.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/plus/plus.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/v4/src/tests/tests.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/v4/src/tests/tests.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/drive/texteditor/texteditor.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/drive/texteditor/texteditor.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/v13/src/v13.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/v13/src/v13.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/android/support/v4/src/v4.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/android/support/v4/src/v4.iml" />
+      <module fileurl="file://$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/wallet/wallet.iml" filepath="$APPLICATION_HOME_DIR$/sdk/extras/google/google_play_services/samples/wallet/wallet.iml" />
     </modules>
   </component>
 </project>
